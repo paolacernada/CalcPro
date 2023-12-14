@@ -1,45 +1,45 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/lDfQ_WVe)
-# Build a Calculator
+# CalcPro: A Modern JavaScript Calculator
 
-## Directions
+## Introduction 🚀
+Welcome to CalcPro! This is my custom-built calculator, crafted as a showcase of my skills in JavaScript, HTML, and CSS.
 
-This exercise will help you understand how to use JavaScript functions and algorithms. You will also work with the DOM and respond to user input.
+## Key Features 🌟
+- **Robust Calculation Engine**: Built to handle everything from basic arithmetic to more complex operations.
+- **Responsive Design**: A sleek, user-friendly interface that adapts to various devices, making calculations easy and accessible.
+- **Real-time Interaction**: Immediate feedback for each user input, enhancing the overall user experience.
+- **Error Handling**: While users can enter complex expressions, CalcPro smartly handles incorrect inputs without compromising functionality.
 
-### Step 1: Set up your project
+## Personal Contributions 💻
+- **Front-End Development**: I designed and implemented the UI from scratch, ensuring a clean and modern look aligned with contemporary design standards.
+- **JavaScript Logic**: The heart of CalcPro, I developed the logic to handle various mathematical operations and user inputs dynamically.
+- **CSS Flexbox/Grid**: Used advanced CSS techniques to ensure a fluid and adaptable layout.
 
-- Create an `index.html` file
-- Create a `main.css` file and link it to your `index.html` file
-- Create a `main.js` file and link it to your `index.html` file
+## Conclusion & Invitation 👋
+CalcPro stands as a proud example of my journey in web development. It embodies my dedication to learning and my passion for creating functional, user-friendly web applications.
 
-### Step 2: Build out the HTML and CSS
+# CalcPro: A Modern JavaScript Calculator
 
-- Using the mockup provided below, create your HTML and CSS.
+## Introduction 🚀
+Welcome to CalcPro! This is my custom-built calculator, crafted as a showcase of my skills in JavaScript, HTML, and CSS. CalcPro is more than just a tool for calculations; it's a testament to my ability to create intuitive and visually appealing web applications.
 
-| Mockup                       | In Action                    |
-| ---------------------------- | ---------------------------- |
-| ![](calculator.jpg) | ![](calculator-in-action.gif) |
+## Key Features 🌟
+- **Robust Calculation Engine**: Built to handle everything from basic arithmetic to more complex operations.
+- **Responsive Design**: A sleek, user-friendly interface that adapts to various devices, making calculations easy and accessible.
+- **Real-time Interaction**: Immediate feedback for each user input, enhancing the overall user experience.
+- **Error Handling**: While users can enter complex expressions, CalcPro smartly handles incorrect inputs without compromising functionality.
 
-### Step 3: Write the JavaScript
+## Personal Contributions 💻
+- **Front-End Development**: I designed and implemented the UI from scratch, ensuring a clean and modern look aligned with contemporary design standards.
+- **JavaScript Logic**: The heart of CalcPro, I developed the logic to handle various mathematical operations and user inputs dynamically.
+- **CSS Flexbox/Grid**: Used advanced CSS techniques to ensure a fluid and adaptable layout.
 
-This is the main part of the project. You will have to react to click events on each calculator button and update the display. Start small by making the numbers work, then move on to the operators, decimal button, and equals button.
+## Behind the Scenes 🛠️
+- **HTML/CSS**: The foundation of CalcPro, creating a structured and styled interface.
+- **JavaScript**: From handling DOM events to performing calculations, JavaScript is the driving force behind the calculator's functionality.
+- **Moment.js Integration**: Leveraged Moment.js for enhanced date and time functionalities.
 
-When a user presses the equals button, evaluate the math expression they have created and put the result in the display. Further buttons pressed add operators and numbers after that result.
+## Challenges & Learnings 📈
+Developing CalcPro was a journey filled with learning opportunities. I refined my skills in DOM manipulation, deepened my understanding of JavaScript functions, and tackled the challenges of responsive web design.
 
-You _do not_ have to stop users from entering bad input. For instance, if a user enters `2.1.0 -+ 7`, you can let them enter that and do not have to show any special output when they try to evaluate it using the equals button. It is fine if you do prevent them from entering bad input, though.
-
-You do not have to allow for chaining long calculations (like `2 + 4 * 7 - 2`), but you can.
-
-**Hint**: One way of evaluating mathematical expressions is [eval](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval). Another way is by using the [math.js](http://mathjs.org/) library.
-
-### Bonus steps
-
-You should find the above project challenging. However, if you complete it, here are more features you should attempt to add in.
-
-* Show an error message when invalid input is given. Using [try-catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch) is your best bet here.
-* Disallow invalid input.
-* Allow for chaining long calculations. [Order of operations](https://en.wikipedia.org/wiki/Order_of_operations) must be honored.
-* Handle edge situations. For example, if a user starts by pressing the decimal button, they generally expect to start a decimal number, which needs a 0 before the decimal point. Add that 0.
-* Allow entry via the keyboard, not just clicking on buttons.
-* Add a button for calculating the modulo of two numbers.
-* Add a button for raising a number by a power.
-* Add parentheses to control the order of evaluation.
+## Conclusion 👋
+CalcPro stands as a proud example of my journey in web development. It embodies my dedication to learning and my passion for creating functional, user-friendly web applications.
